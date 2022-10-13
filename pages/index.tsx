@@ -20,6 +20,7 @@ const Home: NextPage = () => {
         <p className={styles.description}>
           Bar à ambiance, lancer de haches, karaoké, concerts à Saint Avold
         </p>
+        <p className={styles.soon}>Ouverture début 2023</p>
       </main>
 
       <footer className={styles.footer}>
