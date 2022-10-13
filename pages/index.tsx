@@ -12,7 +12,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Le Bar'Bu</h1>
+        <h1 className={styles.title}>Le Bar&apos;Bu</h1>
 
         <p className={styles.description}>
           Bar à ambiance, lancer de haches, karaoké, concerts à Saint Avold
